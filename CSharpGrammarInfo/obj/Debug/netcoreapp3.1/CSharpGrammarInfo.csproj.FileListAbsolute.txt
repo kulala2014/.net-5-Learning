@@ -1,0 +1,16 @@
+D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\netcoreapp3.1\CSharpGrammarInfo.exe
+D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\netcoreapp3.1\CSharpGrammarInfo.deps.json
+D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\netcoreapp3.1\CSharpGrammarInfo.runtimeconfig.json
+D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\netcoreapp3.1\CSharpGrammarInfo.runtimeconfig.dev.json
+D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\netcoreapp3.1\CSharpGrammarInfo.dll
+D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\netcoreapp3.1\CSharpGrammarInfo.pdb
+D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\netcoreapp3.1\CSharpGrammarInfo.csprojAssemblyReference.cache
+D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\netcoreapp3.1\CSharpGrammarInfo.AssemblyInfoInputs.cache
+D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\netcoreapp3.1\CSharpGrammarInfo.AssemblyInfo.cs
+D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\netcoreapp3.1\CSharpGrammarInfo.csproj.CoreCompileInputs.cache
+D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\netcoreapp3.1\CSharpGrammarInfo.dll
+D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\netcoreapp3.1\CSharpGrammarInfo.pdb
+D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\netcoreapp3.1\CSharpGrammarInfo.genruntimeconfig.cache
+D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Graph.dll
+D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Graph.dll
+D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\netcoreapp3.1\CSharpGrammarInfo.csproj.ResolveComReference.cache
