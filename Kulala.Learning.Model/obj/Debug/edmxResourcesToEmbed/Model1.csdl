@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KulalaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="SysLog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="36" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Introduction" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Detail" Type="String" MaxLength="4000" FixedLength="false" Unicode="true" />
+    <Property Name="LogType" Type="Byte" Nullable="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatorId" Type="Int32" Nullable="false" />
+    <Property Name="LastModifyTime" Type="DateTime" Precision="3" />
+    <Property Name="LastModifierId" Type="Int32" />
+  </EntityType>
+  <EntityType Name="SysMenu">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ParentId" Type="Int32" Nullable="false" />
+    <Property Name="Text" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Url" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="MenuLevel" Type="Byte" Nullable="false" />
+    <Property Name="MenuType" Type="Byte" Nullable="false" />
+    <Property Name="MenuIcon" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="SourcePath" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="Sort" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Byte" Nullable="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreatorId" Type="Int32" Nullable="false" />
+    <Property Name="LastModifyTime" Type="DateTime" Precision="3" />
+    <Property Name="LastModifierId" Type="Int32" />
+  </EntityType>
+  <EntityType Name="SysRole">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Text" Type="String" MaxLength="36" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Byte" Nullable="false" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreateId" Type="Int32" Nullable="false" />
+    <Property Name="LastModifyTime" Type="DateTime" Precision="3" />
+    <Property Name="LastModifierId" Type="Int32" />
+  </EntityType>
+  <EntityType Name="SysRoleMenuMapping">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SysRoleId" Type="Int32" Nullable="false" />
+    <Property Name="SysMenuId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SysUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="64" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Byte" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Mobile" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="QQ" Type="Int64" />
+    <Property Name="WeChat" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Sex" Type="Byte" />
+    <Property Name="LastLoginTime" Type="DateTime" Precision="3" />
+    <Property Name="CreateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CreateId" Type="Int32" Nullable="false" />
+    <Property Name="LastModifyTime" Type="DateTime" Precision="3" />
+    <Property Name="LastModifyId" Type="Int32" />
+  </EntityType>
+  <EntityType Name="SysUserMenuMapping">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SysUserId" Type="Int32" Nullable="false" />
+    <Property Name="SysMenuId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SysUserRoleMapping">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SysUserId" Type="Int32" Nullable="false" />
+    <Property Name="SysRoleId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="KulalaEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="SysLogs" EntityType="Self.SysLog" />
+    <EntitySet Name="SysMenus" EntityType="Self.SysMenu" />
+    <EntitySet Name="SysRoles" EntityType="Self.SysRole" />
+    <EntitySet Name="SysRoleMenuMappings" EntityType="Self.SysRoleMenuMapping" />
+    <EntitySet Name="SysUsers" EntityType="Self.SysUser" />
+    <EntitySet Name="SysUserMenuMappings" EntityType="Self.SysUserMenuMapping" />
+    <EntitySet Name="SysUserRoleMappings" EntityType="Self.SysUserRoleMapping" />
+  </EntityContainer>
+</Schema>

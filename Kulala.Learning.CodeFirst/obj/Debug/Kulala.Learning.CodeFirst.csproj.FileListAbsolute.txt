@@ -1,0 +1,14 @@
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\bin\Debug\Kulala.Learning.CodeFirst.exe.config
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\bin\Debug\Kulala.Learning.CodeFirst.exe
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\bin\Debug\Kulala.Learning.CodeFirst.pdb
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\bin\Debug\EntityFramework.dll
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\bin\Debug\EntityFramework.xml
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\obj\Debug\Kulala.Learning.CodeFirst.csproj.AssemblyReference.cache
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\obj\Debug\Kulala.Learning.CodeFirst.csproj.CoreCompileInputs.cache
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\obj\Debug\Kulala.Learning.CodeFirst.csproj.CopyComplete
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\obj\Debug\Kulala.Learning.CodeFirst.exe
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirst\obj\Debug\Kulala.Learning.CodeFirst.pdb

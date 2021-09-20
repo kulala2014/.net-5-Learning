@@ -22,6 +22,10 @@ namespace NET.MVC.Project.Controllers
         {
             return View();
         }
+        public IActionResult Index(string year)
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

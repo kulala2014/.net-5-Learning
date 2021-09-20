@@ -1,0 +1,2 @@
+D:\Github\DoNET5Learning\Kulala.Learning.ConsoleApp\obj\Debug\Kulala.Learning.ConsoleApp.csproj.AssemblyReference.cache
+D:\Github\DoNET5Learning\Kulala.Learning.ConsoleApp\obj\Debug\Kulala.Learning.ConsoleApp.csproj.CoreCompileInputs.cache

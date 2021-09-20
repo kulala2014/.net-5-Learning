@@ -1,0 +1,14 @@
+﻿@using Microsoft.AspNetCore.Http;
+@model String;
+
+@{
+    ViewData["Title"] = ViewData["User2"];
+}
+
+<h1>User1: @base.ViewBag.User1</h1>
+<h1 User2: @base.ViewData["User2"]></h1>
+<h1>User3: @base.TempData["User3"]</h1>
+<h1>User4: @base.Context.Session.GetString("User4")</h1>
+<h1>User5: @Model </h1>
+<h1>Index</h1>
+

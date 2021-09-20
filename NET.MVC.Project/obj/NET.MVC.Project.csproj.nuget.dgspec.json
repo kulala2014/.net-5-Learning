@@ -4,6 +4,73 @@
     "D:\\Github\\DoNET5Learning\\NET.MVC.Project\\NET.MVC.Project.csproj": {}
   },
   "projects": {
+    "D:\\Github\\DoNET5Learning\\Kulala.EF.Model\\Kulala.EF.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Github\\DoNET5Learning\\Kulala.EF.Model\\Kulala.EF.Model.csproj",
+        "projectName": "Kulala.EF.Model",
+        "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.EF.Model\\Kulala.EF.Model.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Github\\DoNET5Learning\\Kulala.Learning.Common\\Kulala.Learning.Common.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Common\\Kulala.Learning.Common.csproj",
+        "projectName": "Kulala.Learning.Common",
+        "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Common\\Kulala.Learning.Common.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Github\\DoNET5Learning\\Kulala.Learning.Interface\\Kulala.Learning.Interface.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Interface\\Kulala.Learning.Interface.csproj",
+        "projectName": "Kulala.Learning.Interface",
+        "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Interface\\Kulala.Learning.Interface.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\Github\\DoNET5Learning\\Kulala.EF.Model\\Kulala.EF.Model.csproj": {
+                "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.EF.Model\\Kulala.EF.Model.csproj"
+              },
+              "D:\\Github\\DoNET5Learning\\Kulala.Learning.Common\\Kulala.Learning.Common.csproj": {
+                "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Common\\Kulala.Learning.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Github\\DoNET5Learning\\Kulala.Learning.Service\\Kulala.Learning.Service.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Service\\Kulala.Learning.Service.csproj",
+        "projectName": "Kulala.Learning.Service",
+        "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Service\\Kulala.Learning.Service.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\Github\\DoNET5Learning\\Kulala.EF.Model\\Kulala.EF.Model.csproj": {
+                "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.EF.Model\\Kulala.EF.Model.csproj"
+              },
+              "D:\\Github\\DoNET5Learning\\Kulala.Learning.Common\\Kulala.Learning.Common.csproj": {
+                "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Common\\Kulala.Learning.Common.csproj"
+              },
+              "D:\\Github\\DoNET5Learning\\Kulala.Learning.Interface\\Kulala.Learning.Interface.csproj": {
+                "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Interface\\Kulala.Learning.Interface.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
     "D:\\Github\\DoNET5Learning\\NET.MVC.Project\\NET.MVC.Project.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -13,8 +80,12 @@
         "packagesPath": "C:\\Users\\高熙熙\\.nuget\\packages\\",
         "outputPath": "D:\\Github\\DoNET5Learning\\NET.MVC.Project\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\高熙熙\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,7 +98,20 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Github\\DoNET5Learning\\Kulala.EF.Model\\Kulala.EF.Model.csproj": {
+                "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.EF.Model\\Kulala.EF.Model.csproj"
+              },
+              "D:\\Github\\DoNET5Learning\\Kulala.Learning.Common\\Kulala.Learning.Common.csproj": {
+                "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Common\\Kulala.Learning.Common.csproj"
+              },
+              "D:\\Github\\DoNET5Learning\\Kulala.Learning.Interface\\Kulala.Learning.Interface.csproj": {
+                "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Interface\\Kulala.Learning.Interface.csproj"
+              },
+              "D:\\Github\\DoNET5Learning\\Kulala.Learning.Service\\Kulala.Learning.Service.csproj": {
+                "projectPath": "D:\\Github\\DoNET5Learning\\Kulala.Learning.Service\\Kulala.Learning.Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -39,6 +123,40 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.11, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +175,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

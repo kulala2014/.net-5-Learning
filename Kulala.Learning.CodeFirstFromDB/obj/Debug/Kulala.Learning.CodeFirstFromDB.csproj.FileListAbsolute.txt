@@ -1,0 +1,12 @@
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\bin\Debug\Kulala.Learning.CodeFirstFromDB.exe.config
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\bin\Debug\Kulala.Learning.CodeFirstFromDB.exe
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\bin\Debug\Kulala.Learning.CodeFirstFromDB.pdb
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\bin\Debug\EntityFramework.dll
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\bin\Debug\EntityFramework.xml
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\obj\Debug\Kulala.Learning.CodeFirstFromDB.csproj.AssemblyReference.cache
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\obj\Debug\Kulala.Learning.CodeFirstFromDB.csproj.CoreCompileInputs.cache
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\obj\Debug\Kulala.Learning.CodeFirstFromDB.csproj.CopyComplete
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\obj\Debug\Kulala.Learning.CodeFirstFromDB.exe
+D:\Github\DoNET5Learning\Kulala.Learning.CodeFirstFromDB\obj\Debug\Kulala.Learning.CodeFirstFromDB.pdb

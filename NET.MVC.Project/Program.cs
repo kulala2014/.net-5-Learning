@@ -1,11 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using NLog.Web;
 
 namespace NET.MVC.Project
 {
@@ -21,6 +17,17 @@ namespace NET.MVC.Project
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                });
+                }).ConfigureLogging(logBuilder =>
+                {
+                    //logBuilder.ClearProviders();//É¾³ýÆäËûµÄlogÅäÖÃ
+                    logBuilder.SetMinimumLevel(LogLevel.Trace);
+                }).UseNLog();
+                //.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+                //.ConfigureLogging(logBuilder =>
+                //{
+                //    logBuilder.ClearProviders();
+                //    logBuilder.SetMinimumLevel(LogLevel.Trace);
+                //    logBuilder.log
+                //});
     }
 }

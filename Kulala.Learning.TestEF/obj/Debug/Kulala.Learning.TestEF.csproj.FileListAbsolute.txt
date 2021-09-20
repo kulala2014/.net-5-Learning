@@ -1,0 +1,17 @@
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\Kulala.Learning.TestEF.exe.config
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\Kulala.Learning.TestEF.exe
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\Kulala.Learning.TestEF.pdb
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\EntityFramework.dll
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\Kulala.EF.Model.dll
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\Kulala.EF.Model.pdb
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\Kulala.EF.Model.dll.config
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\EntityFramework.xml
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\obj\Debug\Kulala.Learning.TestEF.csproj.AssemblyReference.cache
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\obj\Debug\Kulala.Learning.TestEF.csproj.CoreCompileInputs.cache
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\obj\Debug\Kulala.Learning.TestEF.csproj.CopyComplete
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\obj\Debug\Kulala.Learning.TestEF.exe
+D:\Github\DoNET5Learning\Kulala.Learning.TestEF\obj\Debug\Kulala.Learning.TestEF.pdb

@@ -1,0 +1,12 @@
+D:\Github\DoNET5Learning\Kulala.Learning.Model\bin\Debug\Kulala.Learning.Model.dll.config
+D:\Github\DoNET5Learning\Kulala.Learning.Model\bin\Debug\Kulala.Learning.Model.dll
+D:\Github\DoNET5Learning\Kulala.Learning.Model\bin\Debug\Kulala.Learning.Model.pdb
+D:\Github\DoNET5Learning\Kulala.Learning.Model\bin\Debug\EntityFramework.dll
+D:\Github\DoNET5Learning\Kulala.Learning.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\DoNET5Learning\Kulala.Learning.Model\bin\Debug\EntityFramework.xml
+D:\Github\DoNET5Learning\Kulala.Learning.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\DoNET5Learning\Kulala.Learning.Model\obj\Debug\Kulala.Learning.Model.csproj.AssemblyReference.cache
+D:\Github\DoNET5Learning\Kulala.Learning.Model\obj\Debug\Kulala.Learning.Model.csproj.CoreCompileInputs.cache
+D:\Github\DoNET5Learning\Kulala.Learning.Model\obj\Debug\Kulala.Learning.Model.csproj.CopyComplete
+D:\Github\DoNET5Learning\Kulala.Learning.Model\obj\Debug\Kulala.Learning.Model.dll
+D:\Github\DoNET5Learning\Kulala.Learning.Model\obj\Debug\Kulala.Learning.Model.pdb

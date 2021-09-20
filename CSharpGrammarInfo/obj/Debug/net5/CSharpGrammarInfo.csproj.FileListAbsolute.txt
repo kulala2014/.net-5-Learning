@@ -6,7 +6,6 @@ D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\net5\CSharpGrammarInfo.dll
 D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\net5\ref\CSharpGrammarInfo.dll
 D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\net5\CSharpGrammarInfo.pdb
 D:\Github\DoNET5Learning\CSharpGrammarInfo\bin\Debug\net5\Interop.Microsoft.Office.Interop.Graph.dll
-D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\net5\CSharpGrammarInfo.csprojAssemblyReference.cache
 D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\net5\Interop.Microsoft.Office.Interop.Graph.dll
 D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\net5\CSharpGrammarInfo.csproj.ResolveComReference.cache
 D:\Github\DoNET5Learning\CSharpGrammarInfo\obj\Debug\net5\CSharpGrammarInfo.GeneratedMSBuildEditorConfig.editorconfig

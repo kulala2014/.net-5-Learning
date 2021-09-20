@@ -1,0 +1,135 @@
+2021-09-17 16:00:34,146 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 16:00:35,272 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 16:00:35,505 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 16:02:00,430 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 16:02:00,699 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 16:02:00,949 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 16:02:16,812 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 16:30:40,433 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 16:30:40,707 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 16:43:01,988 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 16:43:03,027 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 16:43:03,206 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 16:44:26,237 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 16:48:23,039 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 16:48:23,292 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 16:48:23,543 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 16:48:53,325 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:08:22,628 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 17:08:23,708 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 17:08:23,877 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:08:58,005 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:09:23,620 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:09:25,237 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:09:26,094 [11] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:09:26,796 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:09:28,615 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:09:29,957 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:09:31,217 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:09:31,824 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:09:38,359 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:11:50,087 [20] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:11:50,091 [16] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:11:50,091 [19] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:11:50,092 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:11:50,091 [18] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:11:56,790 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:11:59,750 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:12:02,398 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:12:08,810 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:12:09,733 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:12:10,124 [19] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:12:10,653 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:12:11,753 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:12:12,698 [17] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:12:20,933 [17] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:15:54,739 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:27:43,096 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 17:27:43,349 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 17:27:43,640 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:28:03,019 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 17:28:03,395 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 17:28:03,662 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:28:11,112 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:28:12,637 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:28:15,379 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:28:21,335 [12] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:33:43,444 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 17:33:44,392 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 17:33:44,559 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:33:53,406 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:33:56,783 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:33:58,517 [12] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:34:03,367 [12] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:34:09,517 [11] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:38:11,550 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 17:38:12,574 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 17:38:12,753 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:38:23,028 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:38:28,073 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:38:28,254 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:38:33,908 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:38:33,918 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:38:44,754 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:43:05,312 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 17:43:06,344 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 17:43:06,531 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:43:54,552 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:43:59,463 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:44:04,386 [12] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:44:05,697 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:44:13,096 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:58:22,577 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 17:58:23,607 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 17:58:23,785 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:58:37,918 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:58:42,379 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 17:58:50,651 [9] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:18:05,022 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 18:18:06,025 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 18:18:06,204 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:18:16,597 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:18:23,528 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:18:28,980 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:18:30,331 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:18:31,891 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:19:20,302 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:19:25,196 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:19:26,243 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:21:32,110 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 18:21:32,431 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 18:21:32,700 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:21:39,252 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:21:43,356 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:21:45,104 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:22:10,141 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 18:22:11,190 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 18:22:11,380 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:22:17,158 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:22:20,665 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:22:21,777 [9] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:22:27,101 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:22:34,295 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:22:38,172 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:22:41,117 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:34:24,254 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 18:34:25,478 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 18:34:25,706 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:34:34,028 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:34:37,786 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:35:11,506 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:37:33,157 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 18:37:34,243 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 18:37:34,425 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:37:42,862 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:37:46,772 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:37:54,694 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:38:13,693 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:38:17,747 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:38:19,218 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:38:20,324 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:38:30,989 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 18:38:35,491 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-17 23:26:15,601 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-17 23:26:16,758 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-17 23:26:16,955 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called

@@ -4,4 +4,38 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="C:\Users\高熙熙\.nuget\packages\nlog.config\4.7.11\contentFiles\any\any\NLog.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Core" Version="4.4.1" />
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
+    <PackageReference Include="log4net" Version="2.0.12" />
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="3.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+    <PackageReference Include="NLog.Config" Version="4.7.11" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.14.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Products\Data\" />
+    <Folder Include="Areas\Products\Models\" />
+    <Folder Include="CfgFile\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kulala.EF.Model\Kulala.EF.Model.csproj" />
+    <ProjectReference Include="..\Kulala.Learning.Common\Kulala.Learning.Common.csproj" />
+    <ProjectReference Include="..\Kulala.Learning.Interface\Kulala.Learning.Interface.csproj" />
+    <ProjectReference Include="..\Kulala.Learning.Service\Kulala.Learning.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="C:\Users\高熙熙\.nuget\packages\nlog.config\4.7.11\contentFiles\any\any\NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
 </Project>

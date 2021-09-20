@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KulalaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="SysLog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="36" Nullable="false" />
+    <Property Name="Introduction" Type="nvarchar" MaxLength="1000" Nullable="false" />
+    <Property Name="Detail" Type="nvarchar" MaxLength="4000" />
+    <Property Name="LogType" Type="tinyint" Nullable="false" />
+    <Property Name="CreateTime" Type="datetime" Nullable="false" />
+    <Property Name="CreatorId" Type="int" Nullable="false" />
+    <Property Name="LastModifyTime" Type="datetime" />
+    <Property Name="LastModifierId" Type="int" />
+  </EntityType>
+  <EntityType Name="SysMenu">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ParentId" Type="int" Nullable="false" />
+    <Property Name="Text" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Url" Type="varchar" MaxLength="500" />
+    <Property Name="MenuLevel" Type="tinyint" Nullable="false" />
+    <Property Name="MenuType" Type="tinyint" Nullable="false" />
+    <Property Name="MenuIcon" Type="nvarchar" MaxLength="20" />
+    <Property Name="Description" Type="varchar" MaxLength="100" />
+    <Property Name="SourcePath" Type="varchar" MaxLength="1000" />
+    <Property Name="Sort" Type="int" Nullable="false" />
+    <Property Name="Status" Type="tinyint" Nullable="false" />
+    <Property Name="CreateTime" Type="datetime" Nullable="false" />
+    <Property Name="CreatorId" Type="int" Nullable="false" />
+    <Property Name="LastModifyTime" Type="datetime" />
+    <Property Name="LastModifierId" Type="int" />
+  </EntityType>
+  <EntityType Name="SysRole">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Text" Type="nvarchar" MaxLength="36" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="1000" />
+    <Property Name="Status" Type="tinyint" Nullable="false" />
+    <Property Name="CreateTime" Type="datetime" Nullable="false" />
+    <Property Name="CreateId" Type="int" Nullable="false" />
+    <Property Name="LastModifyTime" Type="datetime" />
+    <Property Name="LastModifierId" Type="int" />
+  </EntityType>
+  <EntityType Name="SysRoleMenuMapping">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SysRoleId" Type="int" Nullable="false" />
+    <Property Name="SysMenuId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SysUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="64" Nullable="false" />
+    <Property Name="Status" Type="tinyint" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="20" />
+    <Property Name="Mobile" Type="varchar" MaxLength="20" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="100" />
+    <Property Name="QQ" Type="bigint" />
+    <Property Name="WeChat" Type="varchar" MaxLength="50" />
+    <Property Name="Sex" Type="tinyint" />
+    <Property Name="LastLoginTime" Type="datetime" />
+    <Property Name="CreateTime" Type="datetime" Nullable="false" />
+    <Property Name="CreateId" Type="int" Nullable="false" />
+    <Property Name="LastModifyTime" Type="datetime" />
+    <Property Name="LastModifyId" Type="int" />
+  </EntityType>
+  <EntityType Name="SysUserMenuMapping">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SysUserId" Type="int" Nullable="false" />
+    <Property Name="SysMenuId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SysUserRoleMapping">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SysUserId" Type="int" Nullable="false" />
+    <Property Name="SysRoleId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="KulalaModelStoreContainer">
+    <EntitySet Name="SysLog" EntityType="Self.SysLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SysMenu" EntityType="Self.SysMenu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SysRole" EntityType="Self.SysRole" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SysRoleMenuMapping" EntityType="Self.SysRoleMenuMapping" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SysUser" EntityType="Self.SysUser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SysUserMenuMapping" EntityType="Self.SysUserMenuMapping" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SysUserRoleMapping" EntityType="Self.SysUserRoleMapping" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

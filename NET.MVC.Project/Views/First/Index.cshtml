@@ -1,0 +1,28 @@
+﻿@Model PeopleModel
+@{
+    ViewData["Title"] = "FirtPage";
+    PeopleModel currentPeople = (PeopleModel)ViewData["CurrentUser"];
+}
+
+
+<h1>Index First</h1>
+
+<h2>User1-viewBag: @ViewBag.CurrentUser.Name</h2>
+<h2>User2-ViewData: @currentPeople.Name</h2>
+<h3>user3-model: @Model.Name</h3>
+<h3>user3-tempData: @((PeopleModel)TempData["CurrentUser"]).Name</h3>
+
+@{Html.RenderPartial("PartialPage", "kulala");};
+@Html.Partial("PartialPage", currentPeople);
+
+<br/>
+
+@foreach(var item in Model.Likes)
+{
+<p>@item</p>
+}
+<img src="~/Image/liuyan.jpg" />
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
