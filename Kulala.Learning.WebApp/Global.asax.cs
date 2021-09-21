@@ -1,4 +1,5 @@
 using Kulala.Learning.WebApp.Utility;
+using Kulala.Learning.WebApp.Utility.ViewEnginExtend;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,6 +22,10 @@ namespace Kulala.Learning.WebApp
 
             //Ìæ»»Ä¬ÈÏControllerFactory
             ControllerBuilder.Current.SetControllerFactory(new KulalaControllerFactory());
+
+            //Ìæ»»Ä¬ÈÏviewEngine
+            ViewEngines.Engines.Clear();
+            ViewEngines.Engines.Add(new CustomViewEngine());
 
             this.logger.Info("WebSite started............"); 
         }

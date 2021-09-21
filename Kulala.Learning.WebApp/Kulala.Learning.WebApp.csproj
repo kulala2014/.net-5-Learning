@@ -183,6 +183,7 @@
     <Compile Include="Utility\Pipeline\ImageHandler.cs" />
     <Compile Include="Utility\RouteExtend\CustomRouteData.cs" />
     <Compile Include="Utility\UserManager.cs" />
+    <Compile Include="Utility\ViewEngineExtend\CustomViewEngine.cs" />
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -257,6 +258,32 @@
     <Content Include="Views\Pipe\Module.cshtml" />
     <Content Include="Views\Pipe\ImageTest.cshtml" />
     <Content Include="Views\Pipe\Refuse.cshtml" />
+    <Content Include="ChromeViews\_ViewStart.cshtml" />
+    <Content Include="ChromeViews\Cache\Index.cshtml" />
+    <Content Include="ChromeViews\Fifth\ActionFilterTest.cshtml" />
+    <Content Include="ChromeViews\Fifth\Index.cshtml" />
+    <Content Include="ChromeViews\Fourth\Index.cshtml" />
+    <Content Include="ChromeViews\Fourth\Login.cshtml" />
+    <Content Include="ChromeViews\Home\About.cshtml" />
+    <Content Include="ChromeViews\Home\Contact.cshtml" />
+    <Content Include="ChromeViews\Home\Index.cshtml" />
+    <Content Include="ChromeViews\Pipe\ImageTest.cshtml" />
+    <Content Include="ChromeViews\Pipe\Index.cshtml" />
+    <Content Include="ChromeViews\Pipe\Module.cshtml" />
+    <Content Include="ChromeViews\Pipe\Refuse.cshtml" />
+    <Content Include="ChromeViews\Second\ChildAction.cshtml" />
+    <Content Include="ChromeViews\Second\Index.cshtml" />
+    <Content Include="ChromeViews\Second\PartialPage.cshtml" />
+    <Content Include="ChromeViews\Second\Timer.cshtml" />
+    <Content Include="ChromeViews\Shared\_Layout.cshtml" />
+    <Content Include="ChromeViews\Shared\_LoginPartial.cshtml" />
+    <Content Include="ChromeViews\Shared\Error.cshtml" />
+    <Content Include="ChromeViews\Third\Create.cshtml" />
+    <Content Include="ChromeViews\Third\Delete.cshtml" />
+    <Content Include="ChromeViews\Third\Details.cshtml" />
+    <Content Include="ChromeViews\Third\Edit.cshtml" />
+    <Content Include="ChromeViews\Third\Index.cshtml" />
+    <Content Include="ChromeViews\Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

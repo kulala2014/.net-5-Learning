@@ -1,0 +1,564 @@
+2021-09-20 09:09:59,071 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 09:09:59,922 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 09:10:00,090 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:10:00,313 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:10:01,899 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:10:01,900 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:10:03,766 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:10:13,486 [14] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:10:13,486 [14] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:10:13,490 [14] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:10:13,490 [14] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:10:13,493 [14] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:09,639 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 09:11:10,119 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 09:11:10,195 [16] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:10,430 [16] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:11,678 [16] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:11,680 [16] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:13,137 [16] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:14,193 [11] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:14,194 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:14,197 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:14,197 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:14,199 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:18,145 [13] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:18,146 [13] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:18,151 [13] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:18,151 [13] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:18,154 [13] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:20,512 [12] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:20,513 [12] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:20,517 [12] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:20,518 [12] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:20,519 [12] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:21,188 [16] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:21,189 [16] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:21,194 [16] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:21,194 [16] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:21,197 [16] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:22,578 [11] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:22,579 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:22,584 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:22,584 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:22,586 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:23,228 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:23,229 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:23,231 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:23,232 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:23,234 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:24,255 [17] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:24,256 [17] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:24,258 [17] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:24,258 [17] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:24,261 [17] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:29,277 [11] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:29,278 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:29,281 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:29,281 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:29,284 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:43,080 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 09:11:43,335 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 09:11:43,624 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:44,105 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:50,154 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:50,931 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:52,756 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:11:53,822 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:11:53,823 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:11:55,992 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:11:56,529 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:11:57,209 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:02,230 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:02,232 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:08,425 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:08,943 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:09,598 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:22,398 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 09:12:22,611 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 09:12:22,882 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:23,158 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:34,560 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:34,562 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:36,075 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:38,267 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:38,271 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:38,272 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:38,272 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:38,592 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:38,613 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:38,614 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:38,648 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:38,649 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:38,651 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:41,747 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:41,748 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:41,753 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:41,753 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:41,754 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:42,433 [11] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:42,434 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:42,438 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:42,438 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:42,439 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:42,779 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:42,780 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:42,784 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:42,784 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:42,785 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:42,953 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:42,954 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:42,958 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:42,958 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:42,959 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:43,117 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:43,118 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:43,122 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:43,122 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:43,122 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:43,251 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:43,251 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:43,255 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:43,256 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:43,256 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:43,412 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:43,412 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:43,416 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:43,416 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:43,416 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:43,552 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:43,553 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:43,556 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:43,557 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:43,557 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:43,717 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:43,718 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:43,722 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:43,722 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:43,723 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:12:58,611 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:12:58,612 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:12:58,616 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:12:58,616 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:12:58,617 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:00,136 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:00,137 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:00,142 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:00,142 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:00,143 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:02,929 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:02,930 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:02,933 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:02,934 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:02,934 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:03,573 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:03,574 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:03,578 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:03,579 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:03,580 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:04,165 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:04,166 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:04,169 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:04,170 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:04,170 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:04,428 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:04,429 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:04,433 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:04,433 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:04,433 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:04,630 [11] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:04,631 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:04,635 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:04,635 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:04,636 [11] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:05,727 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:05,728 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:05,732 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:05,732 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:05,732 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:05,928 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:05,928 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:05,932 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:05,932 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:05,933 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:08,064 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:08,065 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:08,065 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:08,066 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:08,074 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:08,100 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:08,101 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:08,106 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:08,106 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:08,107 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:12,681 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:12,682 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:12,686 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:12,686 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:12,687 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:13,129 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:13,130 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:13,133 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:13,134 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:13,134 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:13,577 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:13,578 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:13,582 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:13,583 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:13,583 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:13,814 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:13,814 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:13,818 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:13,819 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:13,819 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:13,994 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:13,995 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:13,999 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:13,999 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:14,000 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:14,182 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:14,182 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:14,186 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:14,187 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:14,187 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:14,303 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:14,304 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:14,307 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:14,308 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:14,308 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:14,452 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:14,453 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:14,456 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:14,457 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:14,457 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:14,606 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:14,607 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:14,610 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:14,611 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:14,611 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:14,782 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:14,783 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:14,786 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:14,787 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:14,787 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:13:14,964 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:13:14,964 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:13:14,968 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:13:14,968 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:13:14,969 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:14:44,639 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 09:14:45,669 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 09:14:45,842 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:14:45,935 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:14:45,954 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:14:45,955 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:14:47,655 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:14:48,712 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:14:48,712 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:14:48,713 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:14:48,713 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:14:48,714 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:14:53,735 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:14:53,736 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:14:53,737 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:14:53,737 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:14:53,738 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:22,821 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 09:15:23,915 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 09:15:24,090 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:24,182 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:24,197 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:24,199 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:25,878 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:30,624 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:30,628 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:30,628 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:30,629 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:31,001 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:31,021 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:31,022 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:31,061 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:31,061 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:31,064 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:33,460 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:33,460 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:33,467 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:33,467 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:33,468 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:34,001 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:34,002 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:34,006 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:34,007 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:34,007 [10] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:34,202 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:34,202 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:34,206 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:34,206 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:34,207 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:34,359 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:34,359 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:34,363 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:34,364 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:34,364 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:34,509 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:34,510 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:34,514 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:34,514 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:34,515 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:34,680 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:34,681 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:34,684 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:34,684 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:34,684 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:37,600 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:37,628 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:37,633 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:37,633 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:37,641 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:37,661 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:37,661 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:37,668 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:37,668 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:37,668 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:39,412 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:39,413 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:39,417 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:39,418 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:39,418 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:39,902 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:39,903 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:39,906 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:39,907 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:39,907 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:40,110 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:40,111 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:40,114 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:40,115 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:40,115 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:40,266 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:40,266 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:40,270 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:40,271 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:40,271 [7] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:40,414 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:40,414 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:40,418 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:40,419 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:40,419 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:15:40,583 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:15:40,583 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 09:15:40,587 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 09:15:40,588 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 09:15:40,588 [5] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 09:16:46,817 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 09:16:47,950 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 09:16:48,141 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:16:55,211 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:16:55,602 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:17:06,499 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:17:08,547 [9] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:17:12,082 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:17:13,204 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:17:14,028 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:17:15,438 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:17:23,468 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:18:02,524 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 09:18:03,553 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 09:18:03,728 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:18:06,675 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:18:11,692 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:18:27,457 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:19:22,948 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:19:29,375 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:19:34,402 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:23:22,288 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:28:30,582 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 09:28:30,878 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 09:28:31,180 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:33:31,248 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:35:19,448 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 09:35:20,525 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 09:35:20,713 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:35:32,237 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 09:35:43,509 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 15:07:07,486 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 15:07:09,080 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 15:07:09,355 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 15:07:09,486 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 15:07:09,522 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 15:07:09,524 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 15:07:11,989 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 15:07:24,505 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 15:07:24,506 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 15:07:24,507 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 15:07:24,508 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 15:07:24,509 [6] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 15:07:25,127 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 15:07:25,128 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 15:07:25,131 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 15:07:25,132 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 15:07:25,142 [8] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 15:07:25,664 [9] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 15:07:25,665 [9] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuting
+2021-09-20 15:07:25,667 [9] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnActionExecuted
+2021-09-20 15:07:25,668 [9] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuting
+2021-09-20 15:07:25,677 [9] INFO  Kulala.Learning.WebApp.Utility.Filter.CustomActionFilterAttribute - CustomGlobalActionFilterAttribute OnResultExecuted
+2021-09-20 15:55:03,416 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 15:55:04,630 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 16:18:08,168 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 16:18:09,297 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 16:18:09,378 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 16:18:09,486 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 16:18:11,502 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 16:18:11,534 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 16:18:11,535 [8] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 16:18:11,540 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 16:18:11,693 [8] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 16:18:11,890 [8] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 16:52:22,165 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 16:52:22,982 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 16:52:23,042 [5] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 16:52:49,526 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 16:52:49,591 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 16:52:49,603 [11] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 16:55:52,908 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 16:55:54,163 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 16:55:54,237 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 16:55:54,355 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 17:03:23,515 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 17:03:24,672 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 17:03:24,737 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:03:24,855 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 17:22:49,274 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 17:22:49,595 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 17:22:49,604 [37] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:23:04,590 [34] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:25:15,185 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 17:25:15,604 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 17:25:15,616 [38] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:25:15,674 [38] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 17:25:29,023 [39] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:25:29,025 [39] ERROR Kulala.Learning.WebApp.MvcApplication - https://localhost:44330/customservice/r.rtmp出现异常
+2021-09-20 17:26:08,821 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 17:26:08,890 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 17:26:08,901 [38] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:26:08,910 [38] ERROR Kulala.Learning.WebApp.MvcApplication - https://localhost:44330/customservice/r.rtmp出现异常
+2021-09-20 17:26:08,949 [37] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:26:24,708 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 17:26:25,757 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 17:26:25,829 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:26:25,937 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 17:27:12,800 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:27:34,585 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 17:27:35,722 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 17:27:35,795 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:27:35,910 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 17:27:36,182 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:27:36,248 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:27:39,563 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:27:39,592 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:27:46,350 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:56:53,368 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 17:56:54,312 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 17:56:54,368 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:56:54,474 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 17:56:56,565 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:57:02,391 [11] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:57:06,590 [8] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:57:06,591 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 17:57:06,612 [13] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:57:06,664 [12] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:57:06,700 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 17:57:17,588 [10] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:09:01,153 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 18:09:01,608 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 18:09:01,625 [17] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:09:01,671 [17] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 18:09:03,176 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:18:59,560 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 18:19:00,656 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 18:19:00,727 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:19:00,835 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 18:19:10,871 [9] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:19:10,872 [9] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 18:19:41,495 [8] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:19:41,497 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 18:20:09,702 [9] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:27:31,070 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 18:27:32,169 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 18:27:32,248 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:27:32,392 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 18:27:34,056 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:27:52,479 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:27:52,481 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 18:27:53,488 [10] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:27:53,489 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 18:27:54,227 [8] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:27:54,228 [8] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 18:27:54,999 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 18:27:55,000 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 19:20:34,610 [34] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:20:34,665 [43] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:27:29,248 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 19:27:29,603 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 19:27:29,612 [46] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:27:29,652 [46] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 19:27:58,346 [46] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:27:58,347 [46] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 19:27:58,356 [33] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:27:58,357 [56] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:27:58,359 [61] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:27:58,359 [56] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:27:58,359 [51] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:27:58,960 [43] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:28:06,251 [43] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:28:06,354 [43] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:28:06,518 [51] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:28:12,683 [57] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:28:12,684 [57] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 19:29:37,897 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 19:29:38,226 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 19:29:38,236 [46] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:29:38,273 [46] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 19:29:43,721 [51] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:29:43,721 [51] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 19:29:43,766 [33] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:29:44,571 [57] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:29:44,571 [57] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 19:29:44,621 [50] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:29:47,591 [33] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:29:47,592 [33] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 19:29:47,634 [56] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:29:56,388 [50] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:29:56,389 [50] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 19:41:04,772 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 19:41:05,129 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 19:41:05,137 [52] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 19:41:05,187 [52] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 19:41:12,146 [62] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 21:43:15,724 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 21:43:16,934 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 21:43:17,021 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 21:43:17,156 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 21:43:26,408 [9] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 21:43:26,409 [9] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 21:44:40,800 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 21:44:41,926 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 21:44:41,997 [5] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 21:44:42,108 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 21:44:47,605 [5] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 21:44:47,606 [5] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 23:45:58,420 [1] INFO  Kulala.Learning.WebApp.Utility.Logger - 系统初始化Logger模块
+2021-09-20 23:45:59,456 [1] INFO  Kulala.Learning.WebApp.MvcApplication - WebSite started............
+2021-09-20 23:45:59,514 [6] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 23:45:59,630 [6] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 23:46:06,790 [12] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 23:46:06,791 [12] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 23:46:23,165 [9] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 23:46:23,166 [9] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 23:46:41,341 [10] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 23:46:41,343 [10] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 23:46:46,437 [7] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 23:46:46,438 [7] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called
+2021-09-20 23:46:51,023 [12] INFO  Kulala.Learning.WebApp.MvcApplication - This is event for CustomHttpModule_eventHandler, add event in global
+2021-09-20 23:46:51,024 [12] INFO  Kulala.Learning.WebApp.Utility.KulalaControllerFactory - KulalaControllerFactory is called

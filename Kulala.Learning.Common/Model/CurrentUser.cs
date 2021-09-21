@@ -19,5 +19,10 @@ namespace Kulala.Learning.Common.Model
         [Display(Name = "E-mail")]
         public string Email { get; set; }
         public DateTime LoginTime { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Name} -{Account}";
+        }
     }
 }
