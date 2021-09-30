@@ -30,8 +30,8 @@ D:\Github\DoNET5Learning\Kulala.Learning.Common\bin\Debug\zh-Hans\System.Web.Raz
 D:\Github\DoNET5Learning\Kulala.Learning.Common\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
 D:\Github\DoNET5Learning\Kulala.Learning.Common\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\Github\DoNET5Learning\Kulala.Learning.Common\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Github\DoNET5Learning\Kulala.Learning.Common\obj\Debug\Kulala.Learning.Common.csproj.AssemblyReference.cache
 D:\Github\DoNET5Learning\Kulala.Learning.Common\obj\Debug\Kulala.Learning.Common.csproj.CoreCompileInputs.cache
 D:\Github\DoNET5Learning\Kulala.Learning.Common\obj\Debug\Kulala.Learning.Common.csproj.CopyComplete
 D:\Github\DoNET5Learning\Kulala.Learning.Common\obj\Debug\Kulala.Learning.Common.dll
 D:\Github\DoNET5Learning\Kulala.Learning.Common\obj\Debug\Kulala.Learning.Common.pdb
-D:\Github\DoNET5Learning\Kulala.Learning.Common\obj\Debug\Kulala.Learning.Common.csproj.AssemblyReference.cache

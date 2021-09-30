@@ -11,6 +11,7 @@ using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Hosting;
 using NET.MVC.Project.Utility;
 using NET.MVC.Project.Utility.AOP;
+using NET.MVC.Project.Utility.Filters;
 using System.IO;
 
 namespace NET.MVC.Project
@@ -42,6 +43,11 @@ namespace NET.MVC.Project
             //services.AddTransient<IControllerActivator, CustomControllerActivator>();
 
             services.Replace(ServiceDescriptor.Transient<IControllerActivator, CustomControllerActivator>());
+            //services.AddScoped<CustomAsyncActionFilterAttribute>();
+            //services.AddMvc(options =>
+            //{
+            //    options.Filters.Add(new CustomResourceFilterAttribute());
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -123,27 +129,27 @@ namespace NET.MVC.Project
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapAreaControllerRoute(
-                    name: "MyAreaProducts",
-                    areaName: "Products",
-                    pattern: "Products/{controller=Show}/{action=Index}/{id?}");
+                //endpoints.MapAreaControllerRoute(
+                //    name: "MyAreaProducts",
+                //    areaName: "Products",
+                //    pattern: "Products/{controller=Show}/{action=Index}/{id?}");
 
-                endpoints.MapControllerRoute(
-                    name: "areas",
-                    pattern: "{areas:exists}/{controller=Home}/{action=Index}/{id?}"
-                    );
-                endpoints.MapControllerRoute(
-                name: "test",
-                pattern: "test/{action=Index}/{year}",
-                defaults: new 
-                {
-                    controller = "Home",
-                    action = "Index"
-                },
-                constraints: new { year = @"\d{4}"});
                 //endpoints.MapControllerRoute(
-                //    name: "default",
-                //    pattern: "{controller=Home}/{action=Index}/{id?}");
+                //    name: "areas",
+                //    pattern: "{areas:exists}/{controller=Home}/{action=Index}/{id?}"
+                //    );
+                //endpoints.MapControllerRoute(
+                //name: "test",
+                //pattern: "test/{action=Index}/{year}",
+                //defaults: new 
+                //{
+                //    controller = "Home",
+                //    action = "Index"
+                //},
+                //constraints: new { year = @"\d{4}"});
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
 

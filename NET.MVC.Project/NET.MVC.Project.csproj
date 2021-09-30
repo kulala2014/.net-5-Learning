@@ -5,6 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\Products\**" />
+    <Content Remove="Areas\Products\**" />
+    <EmbeddedResource Remove="Areas\Products\**" />
+    <None Remove="Areas\Products\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="C:\Users\高熙熙\.nuget\packages\nlog.config\4.7.11\contentFiles\any\any\NLog.config" />
   </ItemGroup>
 
@@ -12,7 +19,6 @@
     <PackageReference Include="Castle.Core" Version="4.4.1" />
     <PackageReference Include="EntityFramework" Version="6.2.0" />
     <PackageReference Include="log4net" Version="2.0.12" />
-    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="3.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
     <PackageReference Include="NLog.Config" Version="4.7.11" />
@@ -20,9 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Products\Data\" />
-    <Folder Include="Areas\Products\Models\" />
-    <Folder Include="CfgFile\" />
+    <Folder Include="Areas\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -36,6 +40,12 @@
     <Resource Include="C:\Users\高熙熙\.nuget\packages\nlog.config\4.7.11\contentFiles\any\any\NLog.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="CfgFile\log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

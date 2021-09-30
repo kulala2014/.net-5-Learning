@@ -11,7 +11,7 @@ namespace NET.MVC.Project
         {
             CreateHostBuilder(args).Build().Run();
         }
-
+        //IHostingStartup
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
